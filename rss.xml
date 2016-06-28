@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Rona Test]]></title>
         <description><![CDATA[Rona Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rona-test/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Tue, 28 Jun 2016 16:23:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/rona-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>http://ronakeller.tumblr.com/</link>
+            <guid isPermaLink="false">6d27d4ab-9df7-43da-95ed-1497b2c78c76</guid>
+            <pubDate>Tue, 28 Jun 2016 16:23:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rona Keller]]></title>
             <description><![CDATA[<article><h1>Rona Keller</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/edd6b308dc5cbb421fafa86a6c14bdeb/noop.jpg?input=https%3A%2F%2Fc1.staticflickr.com%2F8%2F7118%2F27581740200_fa52b89212_b.jpg"></article>]]></description>
