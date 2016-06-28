@@ -13,8 +13,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://searchingfortomorrow.com/'
 title: Searching For Tomorrow - A Photographic Diary by Kitty and Nathan
-datePublished: '2016-06-28T16:27:00.819Z'
-dateModified: '2016-06-28T16:26:39.291Z'
+datePublished: '2016-06-28T16:27:02.892Z'
+dateModified: '2016-06-28T16:24:57.270Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-28-searching-for-tomorrow-a-photographic-diary-by-kitty-and-n.md
